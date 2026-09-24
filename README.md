@@ -238,6 +238,6 @@ They document the agent configurations, conditional routing, moderation results,
 
 **Ayomikun Adaramola**
 
-Senior Data Engineer | AI & Cloud Engineering
+Senior Data Engineer | AI & Cloud Engineering | Agentic AI
 
 Developed as part of the Udacity AWS Future Agentic AI Engineer Nanodegree.
