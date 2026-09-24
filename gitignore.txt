@@ -1,0 +1,18 @@
+# AWS credentials and environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
